@@ -1,0 +1,5 @@
+EZ_BOOKKEEPING_API_URL=http://localhost:8005
+
+LLM_API_URL=https://dashscope.aliyuncs.com/api/v1
+LLM_KEY=
+LLM_MODEL=qwen3-max

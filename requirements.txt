@@ -1,0 +1,9 @@
+paddleocr~=3.2.0
+paddlepaddle
+fastapi~=0.117.1
+dashscope~=1.24.6
+requests~=2.32.3
+uvicorn
+python-multipart
+dotenv~=0.9.9
+python-dotenv~=1.1.0
